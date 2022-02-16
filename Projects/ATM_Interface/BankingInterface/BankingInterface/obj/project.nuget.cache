@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iHlp+7zId2TuXzV4fAIxKKcy6wrkBoU9EY6NXPbm78ovdQ4l9iXVPlwCOXbLlEzvtcY6G85ZKmJcdi8HxN8aQ==",
+  "success": true,
+  "projectFilePath": "E:\\School\\CODE\\C#\\Projects\\ATM_Interface\\BankingInterface\\BankingInterface\\BankingInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

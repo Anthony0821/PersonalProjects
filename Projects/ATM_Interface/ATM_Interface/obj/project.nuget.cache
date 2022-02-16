@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3DYf6PwO9HdiVS2J2GheX2PKRRFvtbgGolj9OK08+WPbt3O9Rj7dbF2emsX4pwEgN/PKNtwEfzlUKfQEfkLmA==",
+  "success": true,
+  "projectFilePath": "E:\\School\\CODE\\C#\\Projects\\ATM_Interface\\ATM_Interface\\ATM_Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\aleac\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\College Software Dev\\CST-120"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\aleac\\anaconda3\\python.exe",
+		"python.linting.pycodestyleEnabled": true,
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
